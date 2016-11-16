@@ -1,6 +1,10 @@
-## Tom Page 
+## Tom Page
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+####Junior Full Stack Web Developer
+
+Having titered on the abyss of a life time of TEFL drudgery mixed with the extasis of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. 
+
+
 
 ## Skills
 
