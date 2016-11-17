@@ -2,8 +2,11 @@
 
 ####Junior Full Stack Web Developer
 
-Having titered on the abyss of a life time of TEFL drudgery mixed with the extasis of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. 
+Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the extasis of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. Emerging from this state of international wonderment as a trilingual chap with ridiculously well honed communicative skills (trying teaching the third conditional to a non native speaker), I chose to investiagte the possibiility of turning my part time hobby of coding into something more renumerable and professional.
 
+####I do what I love
+
+I have spent a large part of my adult life searching out and looking at the different career possibilities that might suit me best. It is fair to say that I have tried a wide variety As somebody who commucates well, has a flare for problem analysis and solving and a desire to be creative 
 
 
 ## Skills
