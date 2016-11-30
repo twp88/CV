@@ -11,7 +11,7 @@ My ideal role would be as a Full Stack Junior Developer in a place that embraces
 
 ####I do what I love
 
- Having always looked for a profession which is challenging, creative and intellectually stimulating, other professions have left me wanting in the past. Coding is something which ticks all of these boxes but also has the potential for being a force for good in the world, considering it's global reach and impact on peoples daily lives. For this reason I would like to be an advocate for morally written code, focussing on projects which will, at the very least, "do no evil" as google used to say.
+ Having always looked for a profession which is challenging, creative and intellectually stimulating, other professions have left me wanting in the past. Coding is something which ticks all of these boxes but also has the potential for being a force for good in the world, considering it's global reach and impact on peoples daily lives. For this reason I would like to be an advocate for morally written code, focussing on projects which will, at the very least, "do no evil" as google used to say. Added to which, I love writing code.
 
 
 ## Skills
@@ -20,11 +20,13 @@ My ideal role would be as a Full Stack Junior Developer in a place that embraces
 
 The common thread of all of the different jobs that I have done is communication.
 
++ Coding at Makers Academy requires you to collaborate on nearly every single line you right over a four month period. From pair programming to group project work, the agile principles that Makers evangelises means it is imperative that you know and learn how to communicate first and write code second.
+
 + While co-authoring the publication "Funbook" (Difusion/Pons idiomas 2015) I had to co-ordinate the tasks of co-planning and writing with my co-author and editors.
 
 + As a teacher, I had to simplify the task of communicating and explaining complex lingustical concepts to people whose first language is not English.
 
-+ Working as a sales rep in a 4D cinema in Barcelona I had to deal with customer expectations and issues in three different languages and a hectic environment.
++ Working as a sales rep in a 4D cinema in Barcelona I had to deal with customer expectations and issues using three different languages in a difficult and hectic environment.
 
 
 #### Another Skill
@@ -38,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August-December 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -47,11 +49,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Swansea University (September 2006 to June 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Political Science and Spanish
+- 2:1
+- Attained the giddying corporate heights of being the climbing club treasurer and mini-bus driver, as well as being on the club committee.
+- Spent a year abroad as an Erasmus student at the University of Salamanca, which was followed by a month Interailing around Europe. This is probably what sparked my love of living abroad and travelling. 
 
 #### Any other qualifications
 
