@@ -2,7 +2,7 @@
 
 ####Junior Full Stack Web Developer
 
-Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the extasis of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. Emerging from this crysalis of international wonderment as a trilingual butterfly with well honed communicative skills (trying teaching the third conditional to a non native speaker), I chose to investigate the posibiility of turning my part time hobby of coding into something more renumerable and professional.
+Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the extasis of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. Emerging from this crysalis of international wonderment as a trilingual butterfly with well honed communicative skills (try teaching the third conditional to a non native speaker), I chose to investigate the posibility of turning my part time hobby of coding into something more renumerable and professional.
 
 
 Fast forward some four months, and I have just graduated from Makers Academy, arguably the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile. My ideal role would be as a Full Stack Junior Developer in a place that embraces these concepts, in a communicative and open environment.
