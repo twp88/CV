@@ -2,14 +2,14 @@
 
 ####Junior Full Stack Web Developer
 
-Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the extasis of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. Emerging from this crysalis of international wonderment as a trilingual butterfly with ridiculously well honed communicative skills (trying teaching the third conditional to a non native speaker), I chose to investigate the possibiility of turning my part time hobby of coding into something more renumerable and professional.
+Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the extasis of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. Emerging from this crysalis of international wonderment as a trilingual butterfly with well honed communicative skills (trying teaching the third conditional to a non native speaker), I chose to investigate the posibiility of turning my part time hobby of coding into something more renumerable and professional.
 
 
 Fast forward some four months, and I have just graduated from Makers Academy, arguably the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile. My ideal role would be as a Full Stack Junior Developer in a place that embraces these concepts, in a communicative and open environment.
 
 ####I do what I love
 
-I have spent a large part of my adult life searching out and looking at the different career possibilities that might suit me best. It is fair to say that I have tried a wide variety in my pursuit for something which is both rewarding and intellectually challenging as well as being creative. Coding is something which ticks all of these boxes but also has the potential for being a force for good in the world, considering it's global reach 
+I have spent a large part of my adult life searching out and looking at the different career possibilities that might suit me best. It is fair to say that I have tried a wide variety in my pursuit for something which is both rewarding and intellectually challenging as well as being creative. Coding is something which ticks all of these boxes but also has the potential for being a force for good in the world, considering it's global reach
 
 
 ## Skills
