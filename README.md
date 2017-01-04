@@ -22,9 +22,11 @@ The common thread of all of the different jobs that I have done is communication
 
 + Coding at Makers Academy requires you to collaborate on nearly every single line you right over a four month period. From pair programming to group project work, the agile principles that Makers evangelises means it is imperative that you know and learn how to communicate first and write code second.
 
++ I gave several talks at teacher conferences about the adoption and use of technology in the classroom in order to aid and not inhibit teaching. 
+
 + While co-authoring the publication "Funbook" (Difusion/Pons idiomas 2015) I had to co-ordinate the tasks of co-planning and writing with my co-author and editors.
 
-+ As a teacher, I had to simplify the task of communicating and explaining complex lingustical concepts to people whose first language is not English.
++ As a teacher, I had to simplify the task of communicating and explaining complex grammatical concepts to people whose first language is not English.
 
 + Working as a sales rep in a 4D cinema in Barcelona I had to deal with customer expectations and issues using three different languages in a difficult and hectic environment.
 
@@ -54,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Political Science and Spanish
 - 2:1
 - Attained the giddying corporate heights of being the climbing club treasurer and mini-bus driver, as well as being on the club committee.
-- Spent a year abroad as an Erasmus student at the University of Salamanca, which was followed by a month Interailing around Europe. This is probably what sparked my love of living abroad and travelling. 
+- Spent a year abroad as an Erasmus student at the University of Salamanca, which was followed by a month Interailing around Europe. This is probably what sparked my love of living abroad and travelling.
 
 #### Any other qualifications
 
