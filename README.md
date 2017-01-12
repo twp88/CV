@@ -67,5 +67,5 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 **The Campbell Institute** (February 2015 to December 2015)    
 *English Teacher*   
 
-**Capital School of English** (February 2015 to December 2015)    
+**Capital School of English** (June 2013 to September 2014)    
 *English Teacher*   
