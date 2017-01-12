@@ -6,7 +6,9 @@
 
 I have just graduated from Makers Academy, the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile.
 
-Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the ecstasy of travelling for six years, I decided to put my mind to more constructive and challenging pursuits. Emerging from this chrysalis of international travel as a trilingual sensual butterfly with well honed communicative skills (try teaching the third conditional to a non native speaker), I chose to investigate turning my part time hobby of coding into something more remunerable and professional.
+Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the ecstasy of travelling for six years, I decided to put my mind to more constructive and challenging pursuits.
+
+Emerging from this chrysalis of international travel as a trilingual sensual butterfly with well honed communicative skills (try teaching the third conditional to a non native speaker), I chose to investigate turning my part time hobby of coding into something more remunerable and professional.
 
 My ideal role would be as a Full Stack Junior Developer in a place that embraces these concepts, in a communicative and open environment.
 
@@ -49,6 +51,10 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
+
+#### International Teaching and Training Centre (August-September 2010)
+- CELTA (Certificate in Teaching English to Speakers of Other Languages)
+- Gained a great deal of communication experience.
 
 #### Swansea University (September 2006 to June 2010)
 
