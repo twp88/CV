@@ -1,6 +1,6 @@
 ## Tom Page
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](https://github.com/twp88) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](https://github.com/twp88) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blurb](#blurb)
 
 ####Junior Full Stack Web Developer
 
@@ -76,3 +76,16 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 
 **Capital School of English** (June 2013 to September 2014)    
 *English Teacher*   
+
+###Blurb
+- My heroes include Ron Swanson and coffee.
+
+- My passions are travel, coding, languages, reading and writing, snowboarding and climbing (is that too many?)
+
+- Three examples of big life achievements are;
+
+  - Living, working and travelling around New Zealand for one and a half years.
+
+  - Becoming Spanish and Catalan speaker.
+
+  - Surviving Makers Academy.
