@@ -62,7 +62,10 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 ## Experience
 
 **La Gaudí Experiència** (March 2016 to September 2016)    
-*English Teacher*
+*Sales Assistant*
 
 **The Campbell Institute** (February 2015 to December 2015)    
+*English Teacher*   
+
+**Capital School of English** (February 2015 to December 2015)    
 *English Teacher*   
