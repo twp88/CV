@@ -1,5 +1,7 @@
 ## Tom Page
 
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#projects) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1)
+
 ####Junior Full Stack Web Developer
 
 I have just graduated from Makers Academy, the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile.
