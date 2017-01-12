@@ -84,8 +84,8 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 
 - Three examples of big life achievements are;
 
-  - Living, working and travelling around New Zealand for one and a half years.
+  - Living, working and travelling around New Zealand and Australia for one and a half years.
 
-  - Becoming Spanish and Catalan speaker.
+  - Becoming a fluent Spanish and Catalan speaker.
 
   - Surviving Makers Academy.
