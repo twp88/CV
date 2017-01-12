@@ -15,7 +15,7 @@ My ideal role would be as a Full Stack Junior Developer in a place that embraces
 
 ####I do what I love
 
- Having always looked for a profession which is challenging, creative and intellectually stimulating, other professions have left me wanting in the past. Coding is something which ticks all of these boxes but also has the potential for being a force for good in the world, considering it's global reach and impact on peoples daily lives. For this reason I would like to be an advocate for morally written code, focussing on projects which will, at the very least, "do no evil" as google used to say. Added to which, I love writing code.
+ Having always looked for a profession which is challenging, creative and intellectually stimulating, other professions have left me wanting in the past. Coding is something which ticks all of these boxes but also has the potential for being a force for good in the world, considering it's global reach and impact on peoples daily lives.
 
 
 ## Skills
