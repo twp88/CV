@@ -63,8 +63,6 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 - Attained the giddying corporate heights of being the climbing club treasurer and mini-bus driver, as well as being on the club committee.
 - Spent a year abroad as an Erasmus student at the University of Salamanca, which was followed by a month Interailing around Europe. This is probably what sparked my love of living abroad and travelling.
 
-#### Any other qualifications
-
 ## Experience
 
 **La Gaudí Experiència** (March 2016 to September 2016)    
