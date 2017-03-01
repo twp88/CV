@@ -1,6 +1,6 @@
 ## Tom Page
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](https://github.com/twp88) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blurb](#blurb)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](https://github.com/twp88) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blog](https://medium.com/@88pwt)| [Twitter](https://twitter.com/88pwt)| [Blurb](#blurb)
 
 ####Junior Full Stack Web Developer
 
