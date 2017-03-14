@@ -77,7 +77,7 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 **Capital School of English** (June 2013 to September 2014)    
 *English Teacher*   
 
-###Blurb
+### Blurb
 - My heroes include Ron Swanson and coffee.
 
 - My passions are travel, coding, languages, reading and writing, snowboarding and climbing (is that too many?)
