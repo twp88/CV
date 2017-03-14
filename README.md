@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](https://github.com/twp88) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blog](https://medium.com/@88pwt) | [Twitter](https://twitter.com/88pwt) | [Blurb](#blurb)
 
-####Junior Full Stack Web Developer
+#### Junior Full Stack Web Developer
 
 I have just graduated from Makers Academy, the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile.
 
@@ -13,7 +13,7 @@ Emerging from this chrysalis of international travel as a trilingual sensual but
 My ideal role would be as a Full Stack Junior Developer in a place that embraces these concepts, in a communicative and open environment.
 
 
-####I do what I love
+#### I do what I love
 
  Having always looked for a profession which is challenging, creative and intellectually stimulating, other professions have left me wanting in the past. Coding is something which ticks all of these boxes but also has the potential for being a force for good in the world, considering it's global reach and impact on peoples daily lives.
 
