@@ -6,11 +6,11 @@
 
 Hi! My names Tom and I'm a Junior Developer.
 
-I have mainly worked in Ruby, and Ruby on Rails using other frameworks such as Rspec and capybara to create TDD'd products in an Agile environment. Not wishing to limit myself, I have also dabble with a variety of other languages and technologies such as Elastic Search, React and of course git.
+I have mainly worked in Ruby, and Ruby on Rails using other frameworks such as Rspec and capybara to create TDD'd products in an Agile environment. Not wishing to limit myself, I have also dabbled with a variety of other languages and technologies such as Elastic Search, React and of course git.
 
 Three years ago, having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the ecstasy of travelling for six years, I decided to put my mind to more constructive and challenging pursuits.
 
-Emerging from this chrysalis of international travel as a trilingual sensual butterfly with well honed communicative skills (try teaching the third conditional to a non native speaker), I chose to investigate turning my part time hobby of coding into something more remunerable and professional.
+Somehow emerging from this being trilingual, and having honed communicative skills (try teaching the third conditional to a non native speaker), I chose to investigate turning my part time hobby of coding into something more remunerable and professional.
 
 Graduating from Makers Academy in 2017, the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile, I moved back to my chosen home town of Barcelona. It was here that I started work as a back-end junior RoR engineer at Xing Recruiting.
 
