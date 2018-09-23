@@ -69,7 +69,7 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 
 ## Experience
 
-**Xing Recruiting** (May 2017 to February 2018) 
+**Xing Recruiting** (May 2017 to February 2018)            
 *Junior Developer*
 
 **La Gaudí Experiència** (March 2016 to September 2016)    
