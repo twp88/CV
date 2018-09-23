@@ -2,13 +2,15 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](https://github.com/twp88) | [LinkedIn](https://www.linkedin.com/in/tom-page-993022a1) | [Blog](https://medium.com/@88pwt) | [Twitter](https://twitter.com/88pwt) | [Blurb](#blurb)
 
-#### Junior Full Stack Web Developer
+#### Junior Developer
 
-I have just graduated from Makers Academy, the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile.
+Hi! My names Tom and I'm a Junior Developer. I have mainly worked in Ruby, and Ruby on Rails using other frameworks such as Rspec and capybara to create TDD'd products in an Agile environment. Not wishing to limit myself, I have also dabble with a variety of other languages and technologies such as Elastic Search, React and of course git.
 
-Having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the ecstasy of travelling for six years, I decided to put my mind to more constructive and challenging pursuits.
+Three years ago, having teetered on the abyss of a lifetime of TEFL drudgery, mixed with the ecstasy of travelling for six years, I decided to put my mind to more constructive and challenging pursuits.
 
 Emerging from this chrysalis of international travel as a trilingual sensual butterfly with well honed communicative skills (try teaching the third conditional to a non native speaker), I chose to investigate turning my part time hobby of coding into something more remunerable and professional.
+
+Graduating from Makers Academy in 2017, the best coding bootcamp in Europe which is built on the foundations of TDD, XP, pair programming and above all Agile, I moved back to my chosen home town of Barcelona. It was here that I started work as a back-end junior RoR engineer at Xing Recruiting.
 
 My ideal role would be as a Full Stack Junior Developer in a place that embraces these concepts, in a communicative and open environment.
 
@@ -37,7 +39,7 @@ The common necessity of all of the different jobs that I've done is the ability 
 
 #### Adaptability
 
-From teaching to book writing, sales and retail to voice acting and programming, all across four different countries, three languages and two continents and in the space of three years, I have had to learn to adapt.
+From coding, teaching and book writing, sales and retail to voice acting and programming, all across four different countries, three languages and two continents and in the space of three years, I have had to learn to adapt.
 
 Each job, task, country or culture has posed it's own unique challenges. Be it the Spanish tax system or Australian visa rules, soothing the feathers of disgruntled Catalan customers or preparing my students for the potential of hazards of a New Zealand earthquake (or Tsunami), each situation that I have faced in the past three years has required that I adapt and learn fast.
 
@@ -49,8 +51,8 @@ Each job, task, country or culture has posed it's own unique challenges. Be it t
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, React
+- Rspec, Capybara, Jasmine, Mocha
 
 #### International Teaching and Training Centre (August-September 2010)
 - CELTA (Certificate in Teaching English to Speakers of Other Languages)
