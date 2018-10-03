@@ -4,7 +4,7 @@
 
 #### Junior Developer
 
-Hi! My names Tom and I'm a Junior Developer.
+Hi! My name's Tom and I'm a Junior Developer.
 
 I have mainly worked in Ruby, and Ruby on Rails using other frameworks such as Rspec and capybara to create TDD'd products in an Agile environment. Not wishing to limit myself, I have also dabbled with a variety of other languages and technologies such as Elastic Search, React and of course git.
 
